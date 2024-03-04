@@ -29,3 +29,9 @@ Here are a few technologies I've been working with recently:
 [![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=AlexTraveylan&repo=math_exerzizer&theme=tokyonight)](https://github.com/AlexTraveylan/math_exerzizer)
 [![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=AlexTraveylan&repo=parole-aux-parents&theme=tokyonight)](https://github.com/AlexTraveylan/parole-aux-parents)
 [![Repo3](https://github-readme-stats.vercel.app/api/pin/?username=AlexTraveylan&repo=solgard-bot-last-refactoring&theme=tokyonight)](https://github.com/AlexTraveylan/solgard-bot-last-refactoring)
+
+### 📎 Template
+
+Begin python project with my pre-configured template.
+
+[![Template](https://github-readme-stats.vercel.app/api/pin/?username=AlexTraveylan&repo=Template-python&theme=tokyonight)](https://github.com/AlexTraveylan/Template-python)
