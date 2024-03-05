@@ -24,7 +24,7 @@ Here are a few technologies I've been working with recently:
 
 ![YourName's github stats](https://github-readme-stats.vercel.app/api?username=AlexTraveylan&show_icons=true&theme=tokyonight)
 
-### 📌 Pinned Repositories
+### 🌟 Featured Repositories
 
 [![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=AlexTraveylan&repo=math_exerzizer&theme=tokyonight)](https://github.com/AlexTraveylan/math_exerzizer)
 [![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=AlexTraveylan&repo=password-guard-2&theme=tokyonight)](https://github.com/AlexTraveylan/password-guard-2)
@@ -35,3 +35,7 @@ Here are a few technologies I've been working with recently:
 Begin python project with my pre-configured template.
 
 [![Template](https://github-readme-stats.vercel.app/api/pin/?username=AlexTraveylan&repo=Template-python&theme=tokyonight)](https://github.com/AlexTraveylan/Template-python)
+
+### 📬 How connect with me
+
+- Email: contact@alextraveylan.fr
