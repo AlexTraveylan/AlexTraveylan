@@ -27,7 +27,7 @@ Here are a few technologies I've been working with recently:
 ### 📌 Pinned Repositories
 
 [![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=AlexTraveylan&repo=math_exerzizer&theme=tokyonight)](https://github.com/AlexTraveylan/math_exerzizer)
-[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=AlexTraveylan&repo=parole-aux-parents&theme=tokyonight)](https://github.com/AlexTraveylan/parole-aux-parents)
+[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=AlexTraveylan&repo=password-guard-2&theme=tokyonight)](https://github.com/AlexTraveylan/password-guard-2)
 [![Repo3](https://github-readme-stats.vercel.app/api/pin/?username=AlexTraveylan&repo=solgard-bot-last-refactoring&theme=tokyonight)](https://github.com/AlexTraveylan/solgard-bot-last-refactoring)
 
 ### 📎 Template
