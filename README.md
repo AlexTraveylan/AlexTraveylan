@@ -17,8 +17,8 @@ Here are a few technologies I've been working with recently:
 - **Programming languages**: Python, Typescript
 - **Frontend development**: HTML, tailwindcss, Next.js
 - **Backend development**: Django, FastAPI, Flask, Next.js
-- **Database technologies**: MySQL, PostgreSQL, sqlite3, prisma, SQLAlchemy
-- **Other**: Git, Linux, Jenkins
+- **Database technologies**: MySQL, PostgreSQL, sqlite3, prisma, SQLAlchemy, sqlmodel
+- **Other**: API REST, Git, Linux, Jenkins, Vercel, Railway app
 
 ### 📈 GitHub Stats
 
@@ -26,9 +26,12 @@ Here are a few technologies I've been working with recently:
 
 ### 🌟 Featured Repositories
 
-[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=AlexTraveylan&repo=math_exerzizer&theme=tokyonight)](https://github.com/AlexTraveylan/math_exerzizer)
-[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=AlexTraveylan&repo=password-guard-2&theme=tokyonight)](https://github.com/AlexTraveylan/password-guard-2)
-[![Repo3](https://github-readme-stats.vercel.app/api/pin/?username=AlexTraveylan&repo=solgard-bot-last-refactoring&theme=tokyonight)](https://github.com/AlexTraveylan/solgard-bot-last-refactoring)
+[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=AlexTraveylan&repo=ParentsListMaker&theme=tokyonight)](https://github.com/AlexTraveylan/ParentsListMaker)
+[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=AlexTraveylan&repo=parent_list_maker_front&theme=tokyonight)](https://github.com/AlexTraveylan/parent_list_maker_front)
+[![Repo3](https://github-readme-stats.vercel.app/api/pin/?username=AlexTraveylan&repo=taskEqualizer&theme=tokyonight)](https://github.com/AlexTraveylan/taskEqualizer)
+[![Repo4](https://github-readme-stats.vercel.app/api/pin/?username=AlexTraveylan&repo=taskequalizer_front_v2&theme=tokyonight)](https://github.com/AlexTraveylan/taskequalizer_front_v2)
+[![Repo5](https://github-readme-stats.vercel.app/api/pin/?username=AlexTraveylan&repo=math_exerzizer&theme=tokyonight)](https://github.com/AlexTraveylan/math_exerzizer)
+[![Repo6](https://github-readme-stats.vercel.app/api/pin/?username=AlexTraveylan&repo=front-exercizer&theme=tokyonight)](https://github.com/AlexTraveylan/front-exercizer)
 
 ### 📎 Template
 
@@ -38,4 +41,4 @@ Begin python project with my pre-configured template.
 
 ### 📬 How connect with me
 
-- Email: contact@alextraveylan.fr
+- Email: timothee.demares@gmail.com
