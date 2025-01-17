@@ -10,14 +10,16 @@ I'm Alex Traveylan, a passionate Developper from France. I'm focused on Python a
 - 🌱 I'm on track for learning more about IA, Data, Security.
 - 💬 Ask me about anything, I'm happy to help.
 
+My portfolio [here](https://www.alextraveylan.fr/en)
+
 ### 🛠 Tech Stack
 
 Here are a few technologies I've been working with recently:
 
 - **Programming languages**: Python, Typescript
 - **Frontend development**: HTML, tailwindcss, Next.js
-- **Backend development**: Django, FastAPI, Flask, Next.js
-- **Database technologies**: MySQL, PostgreSQL, sqlite3, prisma, SQLAlchemy, sqlmodel
+- **Backend development**: Django, FastAPI, Flask
+- **Database technologies**: PostgreSQL, sqlite3, prisma, SQLAlchemy, sqlmodel
 - **Other**: API REST, Git, Linux, Jenkins, Vercel, Railway app
 
 ### 📈 GitHub Stats
