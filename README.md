@@ -1,8 +1,8 @@
-# Hello, I'm Timothée Demares
+# Hello, I'm Timothee Demares
 
 ## Welcome to my GitHub profile!
 
-I'm Timothée Demares, a passionate Developper from France. I'm focused on Python and Next.js.
+I'm Timothee Demares, a passionate Developper from France. I'm focused on Python and Next.js.
 
 ### 👨‍💻 About Me
 
