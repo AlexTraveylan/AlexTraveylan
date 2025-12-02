@@ -1,4 +1,4 @@
-# Hello, I'm Alex Traveylan! 👋
+# Hello, I'm Timothée Demares! 👋
 
 ## Welcome to my GitHub profile!
 
