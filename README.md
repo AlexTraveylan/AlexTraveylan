@@ -10,7 +10,7 @@ I'm Timothee Demares, a passionate Developper from France. I'm focused on Python
 - 🌱 I'm on track for learning more about IA, Data, Security.
 - 💬 Ask me about anything, I'm happy to help.
 
-My portfolio [here](https://www.alextraveylan.fr/en)
+My portfolio : [www.alextraveylan.fr](https://www.alextraveylan.fr/en)
 
 ### 🛠 Tech Stack
 
@@ -24,13 +24,13 @@ Here are a few technologies I've been working with recently:
 
 ### 📈 GitHub Stats
 
-![YourName's github stats](https://github-readme-stats.vercel.app/api?username=AlexTraveylan&show_icons=true&theme=tokyonight)
+![YourName's github stats](https://github-readme-stats.zcy.dev/api?username=AlexTraveylan&show_icons=true&theme=tokyonight)
 
 ### 📎 Template
 
 Begin python project with my pre-configured template.
 
-[![Template](https://github-readme-stats.vercel.app/api/pin/?username=AlexTraveylan&repo=copier-template-python&theme=tokyonight)](https://github.com/AlexTraveylan/copier-template-python)
+[![Template](https://github-readme-stats.zcy.dev/api/pin/?username=AlexTraveylan&repo=copier-template-python&theme=tokyonight)](https://github.com/AlexTraveylan/copier-template-python)
 
 ### 📬 How connect with me
 
