@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub profile!
 
-I'm Alex Traveylan, a passionate Developper from France. I'm focused on Python and Next.js.
+I'm Timothée Demares, a passionate Developper from France. I'm focused on Python and Next.js.
 
 ### 👨‍💻 About Me
 
@@ -18,9 +18,9 @@ Here are a few technologies I've been working with recently:
 
 - **Programming languages**: Python, Typescript
 - **Frontend development**: HTML, tailwindcss, Next.js
-- **Backend development**: Django, FastAPI, Flask
-- **Database technologies**: PostgreSQL, sqlite3, prisma, SQLAlchemy, sqlmodel
-- **Other**: API REST, Git, Linux, Jenkins, Vercel, Railway app
+- **Backend development**: Django, FastAPI, Streamlit
+- **Database technologies**: PostgreSQL, snowflake, sqlite3, prisma, SQLAlchemy, sqlmodel
+- **Other**: API REST, Git, Linux, Vercel, Railway app
 
 ### 📈 GitHub Stats
 
@@ -39,7 +39,7 @@ Here are a few technologies I've been working with recently:
 
 Begin python project with my pre-configured template.
 
-[![Template](https://github-readme-stats.vercel.app/api/pin/?username=AlexTraveylan&repo=Template-python&theme=tokyonight)](https://github.com/AlexTraveylan/Template-python)
+[![Template](https://github-readme-stats.vercel.app/api/pin/?username=AlexTraveylan&repo=copier-template-python&theme=tokyonight)](https://github.com/AlexTraveylan/copier-template-python)
 
 ### 📬 How connect with me
 
