@@ -30,7 +30,7 @@ Here are a few technologies I've been working with recently:
 
 Begin python project with my pre-configured template.
 
-[![Template](https://github-readme-stats.zcy.dev/api/pin/?username=AlexTraveylan&repo=copier-template-python&theme=tokyonight)](https://github.com/AlexTraveylan/copier-template-python)
+[![Template](https://kasroudra-stats-card.onrender.com/repo?user=AlexTraveylan&repo=copier-template-python&layout=compact&theme=tokyonight)](https://github.com/AlexTraveylan/copier-template-python)
 
 ### 📬 How connect with me
 
