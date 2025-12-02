@@ -18,7 +18,7 @@ Here are a few technologies I've been working with recently:
 
 - **Programming languages**: Python, Typescript
 - **Frontend development**: HTML, tailwindcss, Next.js
-- **Backend development**: Django, FastAPI, Streamlit
+- **Backend development**: FastAPI, Streamlit, Qt
 - **Database technologies**: PostgreSQL, snowflake, sqlite3, prisma, SQLAlchemy, sqlmodel
 - **Other**: API REST, Git, Linux, Vercel, Railway app
 
