@@ -1,4 +1,4 @@
-# Hello, I'm Timothée Demares! 👋
+# Hello, I'm Timothée Demares
 
 ## Welcome to my GitHub profile!
 
