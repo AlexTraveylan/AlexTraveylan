@@ -10,7 +10,8 @@ I'm Timothee Demares, a passionate Developper from France. I'm focused on Python
 - 🌱 I'm on track for learning more about IA, Data, Security.
 - 💬 Ask me about anything, I'm happy to help.
 
-My portfolio : [www.alextraveylan.fr](https://www.alextraveylan.fr/en)
+- My portfolio: [www.alextraveylan.fr](https://www.alextraveylan.fr/en)
+- Calc Rush: [www.calc-rush.fr](https://www.calc-rush.fr)
 
 ### 🛠 Tech Stack
 
@@ -20,7 +21,7 @@ Here are a few technologies I've been working with recently:
 - **Frontend development**: HTML, tailwindcss, Next.js
 - **Backend development**: FastAPI, Streamlit, Qt
 - **Database technologies**: PostgreSQL, snowflake, sqlite3, prisma, sqlmodel
-- **Other**: API REST, Git, Linux, Vercel, Railway app
+- **Other**: API REST, Git, Linux, Vercel, Railway app, Machine learning
 
 ### 📈 GitHub Stats
 
@@ -31,6 +32,10 @@ Here are a few technologies I've been working with recently:
 Begin python project with my pre-configured template.
 
 [![Template](https://kasroudra-stats-card.onrender.com/repo?user=AlexTraveylan&repo=copier-template-python&layout=compact&theme=tokyonight)](https://github.com/AlexTraveylan/copier-template-python)
+
+Lightweight config template to quickly set up a new repository.
+
+[![Template](https://kasroudra-stats-card.onrender.com/repo?user=AlexTraveylan&repo=copier_basic_config&layout=compact&theme=tokyonight)](https://github.com/AlexTraveylan/copier_basic_config)
 
 ### 📬 How connect with me
 
